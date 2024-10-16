@@ -18,3 +18,4 @@ tar -xvzf apache-tomcat-10.1.31.tar.gz
 mv /home/temporal/apache-tomcat-10.1.31/ /home/apache-tomcat/
 rm -rf /home/apache-tomcat/webapps
 rm -rf /home/apache-tomcat/logs
+rm -rf /home/temporal
